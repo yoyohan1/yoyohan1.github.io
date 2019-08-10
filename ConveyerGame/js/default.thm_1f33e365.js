@@ -121,11 +121,11 @@
 
 	function GameSkin() {
 		_super.call(this);
-		this.skinParts = ["lb_score","gp_conveyer","gp_pack","btn_replay","btn_mainMenu","lb_score_over","panel_over"];
+		this.skinParts = ["lb_score","gp_conveyer","lb_hint","gp_pack","btn_replay","btn_mainMenu","lb_score_over","panel_over"];
 		
 		this.height = 950;
 		this.width = 600;
-		this.elementsContent = [this._Image1_i(),this._Image2_i(),this._Image3_i(),this.lb_score_i(),this.gp_conveyer_i(),this.gp_pack_i(),this.panel_over_i()];
+		this.elementsContent = [this._Image1_i(),this._Image2_i(),this._Image3_i(),this.lb_score_i(),this.gp_conveyer_i(),this.lb_hint_i(),this.gp_pack_i(),this.panel_over_i()];
 	}
 	var _proto = GameSkin.prototype;
 
@@ -173,6 +173,15 @@
 		t.width = 112;
 		t.x = 237;
 		t.y = 119;
+		return t;
+	};
+	_proto.lb_hint_i = function () {
+		var t = new eui.Label();
+		this.lb_hint = t;
+		t.fontFamily = "KaiTi";
+		t.horizontalCenter = 0;
+		t.text = "拖动瓶子放在对应颜色的格子";
+		t.verticalCenter = 0;
 		return t;
 	};
 	_proto.gp_pack_i = function () {
