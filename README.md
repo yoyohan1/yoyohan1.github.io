@@ -8,4 +8,4 @@
  
 ### 3.3D模型展示——CocosCreator引擎
  - [试玩点这里](https://yoyohan1.gitee.io/ShowModelScene/)
- - [Github地址](https://github.com/yoyohan1/Cocoscreator_3DModelScene)
+ - [Github地址](https://github.com/yoyohan1/Cocoscreator_3DModelScene)  
