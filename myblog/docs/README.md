@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./banner.jpg
+heroImage: ./banner.png
 actionText: 开始阅读 →
 actionLink: /front-end/
 # features:
