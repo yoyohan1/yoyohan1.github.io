@@ -6,7 +6,7 @@ module.exports = {
      * 默认值: /
      * 如果你想将你的网站部署到 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/"
      */
-    base: '/myblog/',
+    base: '/myblog/dist',
 
     /**
      * 网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上
