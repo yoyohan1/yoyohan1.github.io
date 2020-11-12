@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour appversion="6.1.10" start="node1" apprev="18007">
-  <panorama id="node1">
+  <panorama hideabout="1" id="node1">
     <input leveltilesize="510" levelingpitch="0" height="1500" levelingroll="0" width="1500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
       <level preload="0" height="1500" width="1500" predecode="0"/>
       <level preload="0" height="750" width="750" predecode="0"/>
@@ -24,9 +24,9 @@
     <autorotate returntohorizon="0.000" delay="5.00" useanimation="0" startloaded="0" nodefilter="" enabled="1" speed="0.400" nodedelay="0.00" noderandom="1"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertcontrol="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" rubberband="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
+    <control invertcontrol="1" contextprojections="1" lockedwheel="0" contextfullscreen="1" rubberband="0" lockedmouse="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
-  <panorama id="node2">
+  <panorama hideabout="1" id="node2">
     <input leveltilesize="510" levelingpitch="0" height="1500" levelingroll="0" width="1500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
       <level preload="0" height="1500" width="1500" predecode="0"/>
       <level preload="0" height="750" width="750" predecode="0"/>
@@ -50,7 +50,7 @@
     <autorotate returntohorizon="0.000" delay="5.00" useanimation="0" startloaded="0" nodefilter="" enabled="1" speed="0.400" nodedelay="0.00" noderandom="1"/>
     <flyintransition enabled="1" speed="2.00"/>
     <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control invertcontrol="1" contextprojections="0" lockedwheel="0" contextfullscreen="1" rubberband="0" lockedmouse="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
+    <control invertcontrol="1" contextprojections="1" lockedwheel="0" contextfullscreen="1" rubberband="0" lockedmouse="0" hideabout="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
   <masternode>
     <userdata title="" description="" heading="0" customnodeid="" copyright="" nodeid="master" author="" source="" info="" tags="" longitude="" latitude="" comment="" datetime=""/>
