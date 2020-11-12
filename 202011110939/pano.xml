@@ -17,6 +17,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1" wordwrap="1" background="1" height="20" enabled="1" width="180" border="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-29.09" title="角落" description="查看角落" url="{node2}" skinid="ht_node" target="0.0/0.0/99.0" id="Point01" tilt="-2.2"/>
     </hotspots>
     <media/>
     <transition zoomout="0" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" softedge="0" enabled="1" zoomfov="20" type="crossdissolve" zoomafterinfov="90" zoomoutpause="1" zoomin="0" zoomspeed="2"/>
@@ -42,6 +43,7 @@
     <hotspots wordwrap="1" height="20" width="180">
       <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" borderradius="1" wordwrap="1" background="1" height="20" enabled="1" width="180" border="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-203.14" title="大厅" description="查看大厅" url="{node1}" skinid="ht_node" target="-0.0/4.0/110.9" id="Point01" tilt="-2.7"/>
     </hotspots>
     <media/>
     <transition zoomout="0" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" softedge="0" enabled="1" zoomfov="20" type="crossdissolve" zoomafterinfov="90" zoomoutpause="1" zoomin="0" zoomspeed="2"/>
