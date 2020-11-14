@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":720,"height":1280,"alpha":1},"compId":2,"child":[{"type":"Script","props":{"runtime":"scripts/GameMgr.ts"},"compId":3},{"type":"ColorPicker","props":{"zOrder":0,"x":329.5,"skin":"comp/colorPicker.png","scaleY":1,"scaleX":1,"rotation":0,"name":"ColorPicker","bottom":0},"compId":6}],"loadList":["comp/colorPicker.png"],"loadList3D":[]}
