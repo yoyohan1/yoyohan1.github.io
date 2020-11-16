@@ -34,6 +34,7 @@
 			}
 		],
 		"defines":[
+			"TRANSPARENTBLEND",
 			"_ALPHAPREMULTIPLY_ON"
 		],
 		"cull":2,

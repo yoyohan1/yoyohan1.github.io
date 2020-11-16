@@ -4,6 +4,13 @@
 		"type":"Scene3D",
 		"props":{
 			"name":"SampleScene",
+			"sky":{
+				"material":{
+					"type":"Laya.SkyBoxMaterial",
+					"path":"Assets/New Material.lmat"
+				},
+				"mesh":"SkyBox"
+			},
 			"ambientColor":[
 				0.212,
 				0.227,
@@ -65,7 +72,7 @@
 					"position":[
 						0,
 						0.92,
-						5.362569
+						10.23
 					],
 					"rotation":[
 						0.02224868,
